@@ -1,3 +1,2 @@
 # hello-world
-Yet another repository
-I´m back!
+Yet another repository - I´m back.
